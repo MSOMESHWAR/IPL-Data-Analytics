@@ -25,6 +25,10 @@ Design an exhaustive dashboard with interactive features that offer clear, actio
 
 **Goals**: Performance Analysis: Assess player and team performances over different seasons. Strategic Insights: Discover winning patterns and strategies of successful teams. Player Evaluation: Analyze player impacts under various match conditions. Venue Analysis: Investigate how different venues affect match outcomes. Team Formation: Help the client form five balanced teams based on player data, ensuring competitive fairness.
 
+**Dashboard**:
+![image](https://github.com/MSOMESHWAR/IPL-Data-Analytics/assets/156932357/6644d876-6933-4fa3-8741-60b6efdf3e55)
+
+
 **Conclusion**: This project presents a unique chance to harness data analytics in the sports realm, especially cricket. By revealing concealed patterns and insights from the comprehensive dataset provided by our client, we aim to deliver strategic intelligence that can profoundly influence our client's decision-making processes, including the strategic creation of balanced teams to promote a competitive and thrilling cricket atmosphere.
 
 **About**
