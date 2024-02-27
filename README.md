@@ -25,7 +25,7 @@ Design an exhaustive dashboard with interactive features that offer clear, actio
 
 **Goals**: Performance Analysis: Assess player and team performances over different seasons. Strategic Insights: Discover winning patterns and strategies of successful teams. Player Evaluation: Analyze player impacts under various match conditions. Venue Analysis: Investigate how different venues affect match outcomes. Team Formation: Help the client form five balanced teams based on player data, ensuring competitive fairness.
 
-**Dashboard**:
+
 ![image](https://github.com/MSOMESHWAR/IPL-Data-Analytics/assets/156932357/6644d876-6933-4fa3-8741-60b6efdf3e55)
 
 
